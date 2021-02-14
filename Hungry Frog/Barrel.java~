@@ -1,0 +1,26 @@
+import greenfoot.*;
+
+/**
+ * Write a description of class Barrel here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Barrel extends Actor
+{
+    /**
+     * Act - do whatever the Barrel wants to do. This method is called whenever
+     * the 'Act' or 'Run' button gets pressed in the environment.
+     */
+    public void act() 
+  {
+     grabBarrel();
+  }
+  public void grabBarrel()
+  {
+      if (isTouching(Plane.class))
+  {
+      setLocation(Greenfoot.getRandomNumber(700), (Greenfoot.getRandomNumber(500)));
+      Greenfoot.playSound("Waha.wav");
+  } 
+} 

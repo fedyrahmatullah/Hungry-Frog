@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Latar
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=Latar()
+comment3.params=points
+comment3.target=void\ updateScore(int)
+comment4.params=
+comment4.target=void\ showScore()
+comment5.params=points
+comment5.target=void\ removeLives(int)
+comment6.params=
+comment6.target=void\ showLives()
+numComments=7
