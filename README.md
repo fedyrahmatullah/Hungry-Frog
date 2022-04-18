@@ -19,7 +19,7 @@
 </p>
 
 <p align="justify">
-  Game bertipe survival dengan karakter utama berupa katak, yang perlu bertahan hidup dengan memangsa serangga, namun perlu menghindari dari sang predator yaitu ular. Game ini mengajarkan tentang konsep rantai makanan dan bertahan hidup. Game ini dikembangkan menggunakan Greenfoot.
+  Game bertipe survival dengan karakter utama berupa katak, yang perlu bertahan hidup dengan memangsa serangga, namun perlu menghindar dari sang predator yaitu ular. Game ini mengajarkan tentang konsep rantai makanan dan bertahan hidup. Game ini dikembangkan menggunakan Greenfoot.
 </p>
 <br>
 <p align="justify">
@@ -31,8 +31,8 @@
 </p>
 <br>
 <p align="center">
-  <a href='https://github.com/fedyrahmatullah/Hungry-Frog'><img src="hungryfrog ss.png"></a>
+  <a href='https://github.com/fedyrahmatullah/Hungry-Frog'><img src="IMG/hungryfrog ss.png"></a>
 </p
   <p align="center">
-  <a href='https://github.com/fedyrahmatullah/Hungry-Frog'><img src="hungryfrog ss2.png"></a>
+  <a href='https://github.com/fedyrahmatullah/Hungry-Frog'><img src="IMG/hungryfrog ss2.png"></a>
 </p
