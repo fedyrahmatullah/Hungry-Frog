@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href='https://github.com/fedyrahmatullah/Hungry-Frog'><img src="IMG/hungry frog welcome.png"></a>
+  <a href='https://github.com/fedyrahmatullah/Hungry-Frog'><img src="IMG/hungry frog welcome.png"></a><br>
   Character Image Source: Google
 </p>
 
